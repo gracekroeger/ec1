@@ -1,0 +1,147 @@
+	h1{
+		font: sans-serif;
+		color: #44515A;
+		font-size: 1.7em;
+	}
+
+	h2{
+		font: sans-serif;
+		color: #44515A;
+		font-size: 1.5em;
+		text-align: left;
+	}
+
+	#original{
+	color: #44515A;
+	width:20%; 
+	border-bottom: 2px black 2px;
+	text-align: center;
+	margin:1%;
+	padding-left: 1%; 
+	padding-right: 1%; 
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: 1.25em;}
+	
+	#color{color: #44515A;
+	width:20%; 
+	border-bottom: 2px black 2px;
+	text-align: center;
+	margin:1%;
+	padding-left: 1%; 
+	padding-right: 1%; 
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: 1.25em;}
+	
+
+	#large{
+	color: #44515A;
+	width:20%; 
+	border-bottom: 2px black 2px;
+	text-align: center;
+	margin:1%;
+	padding-left: 1%; 
+	padding-right: 1%; 
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: 1.25em;}
+	
+
+	body{font-family:Arial, Helvetica, sans-serif;
+		color: #44515A;}
+
+#tab{
+	background-color: #44515A;
+}
+
+	.nav { width: 15%; height: 7%; background:white; 
+	color: #44515A; 
+	border: none; 
+	border-radius: 4px;  
+	margin-top:1%;
+	margin-left: 1%; 
+	font-size: 1.5em;
+border-bottom: 5px solid white;}
+
+	.nav:active {
+	color: black;
+	background:white;
+	opacity: 1; 
+	border-bottom: 2px solid #44515A;}
+
+	.nav:hover {
+	color: black;
+	font-weight: 500;
+	background:white;
+	opacity: 1;
+	border-bottom: 2px solid #44515A;}
+
+	.number button {
+	color: #44515A;
+	width:30%; 
+	border-style: outset;
+	border-width: 3px;
+	border-radius: 4px; 
+	text-align: center;
+	margin:1%;
+	padding-left: 5%; 
+	padding-right: 5%; 
+	padding-top: 2%;
+	padding-bottom: 2%;
+	box-shadow: 1px 2px 5px lightgrey;
+	font-size: 1.25em;}
+
+	.number button:hover{
+		color: black;
+		font-weight: 500;
+	}
+
+	.button button {
+	color: #44515A;
+	width:10%; 
+	border-style: outset;
+	border-width: 3px;
+	border-radius: 4px; 
+	text-align: center;
+	margin:1%;
+	padding-left: 2%; 
+	padding-right: 2%; 
+	padding-top: 2%;
+	padding-bottom: 2%;
+	box-shadow: 1px 2px 5px lightgrey;
+	font-size: .7em;}
+
+	div#dialercontent{
+		width:50%;
+		text-align: center;
+	}
+
+	button#dial {
+	color: #44515A;
+	width:46%; 
+	border-style: outset;
+	border-width: 3px;
+	border-radius: 4px; 
+	text-align: center;
+	margin:1%;
+	padding-left: 5%; 
+	padding-right: 5%; 
+	padding-top: 2%;
+	padding-bottom: 2%;
+	box-shadow: 1px 2px 5px lightgrey;
+	font-size: 1.25em;}
+
+#padding{
+	padding-top: 1%;
+}
+
+	td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
